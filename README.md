@@ -21,13 +21,15 @@ Replays in this repository follow a specific naming format to ensure consistency
 - `Fly to The Legends 2_45.30s`
 - `Aster_30.50s`
 
-If a replay is "legit", a `_legit` suffix is added to the filename:
+If a replay does not finish the map or has a specific characteristic (e.g., legit, AFK king, solo part), it should have a corresponding suffix in its filename.
 
-### Example of Legit Replay Naming:
+### Examples:
 
 - `Fly to The Legends 2_45.30s_legit`
+- `Fly to The Legends 2_afk_king`
+- `Aim 10.0_solo_part`
 
-This format ensures easy identification of replays and their validity status.
+This format ensures easy identification of replays.
 
 ## Prerequisites
 
