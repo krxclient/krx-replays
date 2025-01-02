@@ -16,20 +16,23 @@ Welcome to the **KRX Replays** repository! This repository contains `.tas` files
 ## Usage Instructions
 
 1. Clone or download this repository.
-```bash
-git clone https://github.com/yourusername/krx-replays.git
-```
+    ```bash
+    git clone https://github.com/krxclient/krx-replays.git
+    ```
 
 2. Navigate to the folder of the map you want to play.
+    ```bash
+    cd krx-replays/<map-folder>
+    ```
 
-```bash
-cd krx-replays/<map-folder>
-```
+3. Copy the `.tas` file to your local replays folder. The local replays folder is located here:
+    ```
+    %AppData%\krxclient.xyz\replays
+    ```
 
-3. Open the KRX Client and load the `.tas` file using the built-in replay loader.
+4. Open the KRX Client and load the `.tas` file using the built-in replay loader.
 
 ### Note:
-
 If the `.tas` file is not located in any map folder, it should still be possible to load it manually through the KRX Client.
 
 ## Contributing
