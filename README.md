@@ -8,6 +8,27 @@ Welcome to the **KRX Replays** repository! This repository contains `.tas` files
 - These files are designed to work exclusively with **KRX Ultimate** (the paid version of the KRX Client).
 - Use these `.tas` files to load pre-configured replays and execute precise moves in the game.
 
+## Naming Format
+
+Replays in this repository follow a specific naming format to ensure consistency and clarity:
+
+```
+<mapname>_<time>
+```
+
+### Example:
+
+- `Fly to The Legends 2_45.30s`
+- `Aster_30.50s`
+
+If a replay is "legit", a `_legit` suffix is added to the filename:
+
+### Example of Legit Replay Naming:
+
+- `Fly to The Legends 2_45.30s_legit`
+
+This format ensures easy identification of replays and their validity status.
+
 ## Prerequisites
 
 - **KRX Client**: Ensure you have the **KRX Ultimate** version installed. The free version does not support `.tas` files.
