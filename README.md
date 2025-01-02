@@ -16,8 +16,8 @@ Welcome to the **KRX Replays** repository! This repository contains `.tas` files
 ## Usage Instructions
 
 1. Clone or download this repository.
-   ```bash
-   git clone https://github.com/yourusername/krx-replays.git
+```bash
+git clone https://github.com/yourusername/krx-replays.git
 ```
 
 2. Navigate to the folder of the map you want to play.
@@ -60,7 +60,7 @@ This repository contains `.tas` files intended for use with the KRX Client. The 
 2. **Modifications**: Users are encouraged to create and share their own `.tas` files within the KRX community. Modified files may also be submitted to this repository following the contribution guidelines.
 3. **Commercial Use**: These `.tas` files cannot be used for commercial purposes outside of the KRX Client ecosystem.
 
-For questions or permissions beyond these terms, contact us via [KRX Discord](https://discord.gg/z92rnB4kHm).
+For questions or permissions beyond these terms, contact us via [KRX Discord](https://discord.gg/MwzsHadQAe).
 
 ---
 
