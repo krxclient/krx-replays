@@ -1,0 +1,6128 @@
+{
+    "conditions_local": {
+        "hook_id": 1,
+        "pos": {
+            "x": 7246.0,
+            "y": 13649.0
+        },
+        "weapons": {
+            "WEAPON_GRENADE": false,
+            "WEAPON_GUN": true,
+            "WEAPON_HAMMER": true,
+            "WEAPON_LASER": false,
+            "WEAPON_NINJA": false,
+            "WEAPON_SHOTGUN": false
+        }
+    },
+    "info": {
+        "author": "KeykiownsBR",
+        "date_modified": "",
+        "description": "TODO: Add description later when TAS is in menu",
+        "is_dummy_replay": false,
+        "map": "Ravillion"
+    },
+    "replay_local": [
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -156,
+                "m_TargetY": 85,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 163,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -190,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -190,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -192,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -193,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -193,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -194,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -194,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -194,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -194,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -195,
+                "m_TargetY": 166,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 169,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 170,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 170,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 170,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 170,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7246.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7248.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7252.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7258.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7266.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7276.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7286.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7296.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7306.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7316.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7326.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7336.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7346.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7356.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7366.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7376.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7385.0,
+                "y": 13636.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7394.0,
+                "y": 13624.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7403.0,
+                "y": 13612.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7412.0,
+                "y": 13601.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -199,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7421.0,
+                "y": 13591.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -197,
+                "m_TargetY": 171,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7430.0,
+                "y": 13581.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 179,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7439.0,
+                "y": 13572.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 179,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7447.0,
+                "y": 13564.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 179,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7455.0,
+                "y": 13557.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 179,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7463.0,
+                "y": 13551.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 179,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7471.0,
+                "y": 13545.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -189,
+                "m_TargetY": 179,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13540.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -184,
+                "m_TargetY": 176,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7471.0,
+                "y": 13536.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -180,
+                "m_TargetY": 168,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7468.0,
+                "y": 13533.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -175,
+                "m_TargetY": 160,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7463.0,
+                "y": 13531.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -175,
+                "m_TargetY": 160,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7459.0,
+                "y": 13530.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -174,
+                "m_TargetY": 157,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7455.0,
+                "y": 13529.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -172,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7451.0,
+                "y": 13529.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -171,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7447.0,
+                "y": 13530.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -171,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7444.0,
+                "y": 13532.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -171,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7441.0,
+                "y": 13535.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -171,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7438.0,
+                "y": 13539.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -171,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7436.0,
+                "y": 13543.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -171,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7435.0,
+                "y": 13548.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -171,
+                "m_TargetY": 155,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7436.0,
+                "y": 13554.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -164,
+                "m_TargetY": 150,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7439.0,
+                "y": 13561.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -164,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7443.0,
+                "y": 13568.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7448.0,
+                "y": 13576.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7453.0,
+                "y": 13585.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7459.0,
+                "y": 13594.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7464.0,
+                "y": 13604.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7469.0,
+                "y": 13614.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13625.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13636.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13648.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -163,
+                "m_TargetY": 148,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -138,
+                "m_TargetY": 149,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -114,
+                "m_TargetY": 152,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -75,
+                "m_TargetY": 157,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -75,
+                "m_TargetY": 157,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -75,
+                "m_TargetY": 157,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13649.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -75,
+                "m_TargetY": 157,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13636.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -51,
+                "m_TargetY": 153,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13623.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 22,
+                "m_TargetY": 133,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13611.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 43,
+                "m_TargetY": 132,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13599.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 43,
+                "m_TargetY": 132,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13588.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 44,
+                "m_TargetY": 130,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13577.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 108,
+                "m_TargetY": 119,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13567.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 168,
+                "m_TargetY": 99,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13557.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 186,
+                "m_TargetY": 94,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13548.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 200,
+                "m_TargetY": 91,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13539.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 208,
+                "m_TargetY": 91,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13531.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 209,
+                "m_TargetY": 91,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13523.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 210,
+                "m_TargetY": 91,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13516.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 28,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 211,
+                "m_TargetY": 91,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13509.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 29,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 395,
+                "m_TargetY": -62,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13503.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 225,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13497.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 225,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13492.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 225,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13487.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 225,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13483.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 225,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13471.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 225,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13460.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 225,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13449.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 224,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13439.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 224,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13429.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 224,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13419.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 224,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13410.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 224,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13402.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 224,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13394.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 224,
+                "m_TargetY": 109,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13387.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 213,
+                "m_TargetY": 133,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13380.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 199,
+                "m_TargetY": 161,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13373.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 199,
+                "m_TargetY": 161,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13367.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 199,
+                "m_TargetY": 161,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7473.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 199,
+                "m_TargetY": 161,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7475.0,
+                "y": 13356.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 195,
+                "m_TargetY": 160,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7478.0,
+                "y": 13352.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 176,
+                "m_TargetY": 157,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7483.0,
+                "y": 13348.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 173,
+                "m_TargetY": 158,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7488.0,
+                "y": 13345.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 170,
+                "m_TargetY": 160,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7493.0,
+                "y": 13342.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 168,
+                "m_TargetY": 161,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7498.0,
+                "y": 13339.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 158,
+                "m_TargetY": 165,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7503.0,
+                "y": 13337.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 133,
+                "m_TargetY": 192,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7508.0,
+                "y": 13336.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 104,
+                "m_TargetY": 259,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7513.0,
+                "y": 13335.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 110,
+                "m_TargetY": 330,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7518.0,
+                "y": 13335.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 124,
+                "m_TargetY": 363,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7523.0,
+                "y": 13335.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 121,
+                "m_TargetY": 381,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7528.0,
+                "y": 13335.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 113,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7533.0,
+                "y": 13336.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 109,
+                "m_TargetY": 384,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7538.0,
+                "y": 13338.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 97,
+                "m_TargetY": 387,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7543.0,
+                "y": 13340.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 93,
+                "m_TargetY": 388,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7548.0,
+                "y": 13343.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 91,
+                "m_TargetY": 389,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7553.0,
+                "y": 13346.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 87,
+                "m_TargetY": 389,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7558.0,
+                "y": 13350.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 81,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7563.0,
+                "y": 13354.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 66,
+                "m_TargetY": 394,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7568.0,
+                "y": 13358.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 59,
+                "m_TargetY": 395,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7575.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 52,
+                "m_TargetY": 396,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7584.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 48,
+                "m_TargetY": 396,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7594.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 48,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7604.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 48,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7614.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 45,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7619.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 45,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7622.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 44,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7623.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 35,
+                "m_TargetY": 398,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 26,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 19,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 19,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 19,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 19,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 18,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 16,
+                "m_TargetY": 396,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 15,
+                "m_TargetY": 396,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 16,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 17,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 17,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 18,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 18,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7624.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 18,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7626.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 8,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7630.0,
+                "y": 13361.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 0,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7635.0,
+                "y": 13362.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -7,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7640.0,
+                "y": 13364.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -8,
+                "m_TargetY": 399,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7645.0,
+                "y": 13367.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -13,
+                "m_TargetY": 362,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7650.0,
+                "y": 13370.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -15,
+                "m_TargetY": 362,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7655.0,
+                "y": 13374.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -30,
+                "m_TargetY": 364,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7660.0,
+                "y": 13362.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -45,
+                "m_TargetY": 377,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7665.0,
+                "y": 13350.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 1,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -47,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7670.0,
+                "y": 13339.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -47,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7674.0,
+                "y": 13329.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -31,
+                "m_TargetY": 369,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7678.0,
+                "y": 13320.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -1,
+                "m_TargetY": 353,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7683.0,
+                "y": 13311.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -57,
+                "m_TargetY": 367,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7688.0,
+                "y": 13303.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -75,
+                "m_TargetY": 392,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7693.0,
+                "y": 13295.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -75,
+                "m_TargetY": 392,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7698.0,
+                "y": 13288.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -58,
+                "m_TargetY": 363,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7703.0,
+                "y": 13281.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 6,
+                "m_TargetY": 286,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7708.0,
+                "y": 13275.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": 165,
+                "m_TargetY": 297,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7712.0,
+                "y": 13269.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -11,
+                "m_TargetY": 362,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7716.0,
+                "y": 13264.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -110,
+                "m_TargetY": 384,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7719.0,
+                "y": 13259.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -106,
+                "m_TargetY": 385,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13255.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -100,
+                "m_TargetY": 387,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13251.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -86,
+                "m_TargetY": 390,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7718.0,
+                "y": 13248.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -85,
+                "m_TargetY": 390,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7715.0,
+                "y": 13245.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -84,
+                "m_TargetY": 390,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7710.0,
+                "y": 13243.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 390,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7705.0,
+                "y": 13241.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -66,
+                "m_TargetY": 394,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7700.0,
+                "y": 13240.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -35,
+                "m_TargetY": 398,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7695.0,
+                "y": 13239.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -35,
+                "m_TargetY": 398,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7690.0,
+                "y": 13239.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -38,
+                "m_TargetY": 398,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7685.0,
+                "y": 13239.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -39,
+                "m_TargetY": 398,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7680.0,
+                "y": 13240.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -41,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7675.0,
+                "y": 13241.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -43,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7672.0,
+                "y": 13243.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -45,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7670.0,
+                "y": 13245.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -47,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7670.0,
+                "y": 13248.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -48,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7671.0,
+                "y": 13253.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -49,
+                "m_TargetY": 396,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7674.0,
+                "y": 13259.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -50,
+                "m_TargetY": 395,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7678.0,
+                "y": 13266.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -46,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7682.0,
+                "y": 13274.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -44,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7686.0,
+                "y": 13282.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -44,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7689.0,
+                "y": 13291.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -44,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7692.0,
+                "y": 13300.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -44,
+                "m_TargetY": 397,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7697.0,
+                "y": 13310.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -47,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7702.0,
+                "y": 13320.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -66,
+                "m_TargetY": 366,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7707.0,
+                "y": 13331.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -95,
+                "m_TargetY": 334,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7712.0,
+                "y": 13342.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -113,
+                "m_TargetY": 308,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7717.0,
+                "y": 13354.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -123,
+                "m_TargetY": 291,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7722.0,
+                "y": 13366.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -131,
+                "m_TargetY": 279,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7726.0,
+                "y": 13379.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -127,
+                "m_TargetY": 277,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7730.0,
+                "y": 13392.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -99,
+                "m_TargetY": 268,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7734.0,
+                "y": 13406.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 240,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7738.0,
+                "y": 13420.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -80,
+                "m_TargetY": 206,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7742.0,
+                "y": 13435.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 204,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7744.0,
+                "y": 13450.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -88,
+                "m_TargetY": 247,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7746.0,
+                "y": 13466.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -93,
+                "m_TargetY": 267,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7748.0,
+                "y": 13482.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -93,
+                "m_TargetY": 270,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7748.0,
+                "y": 13499.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -91,
+                "m_TargetY": 286,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7747.0,
+                "y": 13516.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -86,
+                "m_TargetY": 296,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7745.0,
+                "y": 13534.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 300,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7743.0,
+                "y": 13552.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 300,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7741.0,
+                "y": 13571.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": -1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 300,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7737.0,
+                "y": 13590.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 300,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7734.0,
+                "y": 13610.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 300,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7731.0,
+                "y": 13630.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 300,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7728.0,
+                "y": 13651.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 307,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7725.0,
+                "y": 13672.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -79,
+                "m_TargetY": 317,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7722.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -77,
+                "m_TargetY": 323,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7721.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -76,
+                "m_TargetY": 325,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -73,
+                "m_TargetY": 327,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -72,
+                "m_TargetY": 327,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -71,
+                "m_TargetY": 330,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -71,
+                "m_TargetY": 334,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -76,
+                "m_TargetY": 351,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -77,
+                "m_TargetY": 356,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -78,
+                "m_TargetY": 359,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -79,
+                "m_TargetY": 364,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -73,
+                "m_TargetY": 384,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -73,
+                "m_TargetY": 386,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -73,
+                "m_TargetY": 386,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -80,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7720.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7722.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7726.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7732.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7740.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7749.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7759.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7769.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7779.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7789.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7799.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7809.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7819.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7829.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7839.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7849.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7859.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7869.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7879.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7889.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7899.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7909.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7919.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7929.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7939.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7949.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7959.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7969.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7979.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 378,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7989.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 386,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 7999.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -84,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8009.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -83,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8019.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8029.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8039.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8049.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8059.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8069.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 1,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8079.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8089.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8099.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8109.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8119.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 391,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8129.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 388,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8139.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 388,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8149.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 388,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8159.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -82,
+                "m_TargetY": 388,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8169.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -81,
+                "m_TargetY": 388,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8179.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8189.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8199.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8209.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8219.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8229.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8239.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8249.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8259.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8269.0,
+                "y": 13681.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13682.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13683.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 1,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13685.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13687.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13689.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13692.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13696.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13700.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13705.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13710.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13716.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13722.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13729.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13736.0
+            }
+        },
+        {
+            "input": {
+                "m_Direction": 0,
+                "m_Fire": 30,
+                "m_Hook": 0,
+                "m_Jump": 0,
+                "m_NextWeapon": 0,
+                "m_PlayerFlags": 1,
+                "m_PrevWeapon": 0,
+                "m_TargetX": -61,
+                "m_TargetY": 383,
+                "m_WantedWeapon": 0
+            },
+            "pos": {
+                "x": 8273.0,
+                "y": 13744.0
+            }
+        }
+    ]
+}
